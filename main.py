@@ -33,7 +33,7 @@ sql_commands = sql_file.read()
 db.executescript(sql_commands)
 #write to database
 #import_data(db, data)
-print(send_aircraft_by_id(44))
+print(send_aircraft_by_id(69))
 
 #print all data in table
 #db.execute("SELECT * FROM aircrafts")

@@ -8,19 +8,9 @@ from telegram.ext.filters import Filters
 import logger
 import json
 import os.path
+from config import *
 
-api_key = ""
-
-if (os.path.exists("bot_api.txt")):
-    f = open("bot_api.txt", "r")
-    api_key = f.read()
-    f.close
-else:
-    api_key = input("Enter the API key of your bot: ")
-    with open("bot_api.txt", "w") as t:
-        t.write(api_key)
-    logger.makeLog("New API Key created")
-
+api_key = telegram_key
 
 bot = telegram.Bot(token = api_key)  
 updater = Updater(api_key, use_context=True)
@@ -61,7 +51,7 @@ updater.dispatcher.add_handler(MessageHandler(Filters.text, unknown_text))
 
 # Brodcast
 def broadcast(msg):
-    f = open("users.json")
+    f = open("json/users.json")
     user_data = json.load(f)
     for user in user_data:
         bot.send_message(chat_id = user_data[user], text = msg)

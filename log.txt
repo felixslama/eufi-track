@@ -1,0 +1,18 @@
+2022-04-29 21:08:57.200821> Successfull Start 
+2022-04-29 21:09:41.833266> Successfull Start 
+2022-04-29 21:11:11.627624> Successfull Start 
+2022-04-29 21:11:11.627624 - ErikSimcic - Ping 
+2022-04-29 21:11:11.627624 - ErikSimcic - Ping 
+2022-04-29 21:11:11.627624 - None - Unvalid Command 
+2022-04-29 21:11:11.627624 - None - Unvalid Command 
+2022-04-29 21:11:11.627624 - None - Ping 
+2022-04-29 21:12:09.464019> Successfull Start 
+2022-04-29 21:12:09.464019 - Erik - E737 seen at Utah Garfield County at 2022-04-29 17:56:25 UTC https://globe.adsbexchange.com/?icao=7cf8f3 
+2022-04-29 21:12:09.464019 - Felix - E737 seen at Utah Garfield County at 2022-04-29 17:56:25 UTC https://globe.adsbexchange.com/?icao=7cf8f3 
+2022-04-29 21:13:05.523162> Successfull Start 
+2022-04-29 21:13:57.384518> Successfull Start 
+2022-04-29 21:13:57.384518 - Erik - DC10 seen 34.2,43.9 at 2022-04-29 17:56:25 UTC https://globe.adsbexchange.com/?icao=ae0230 
+2022-04-29 21:13:57.384518 - Felix - DC10 seen 34.2,43.9 at 2022-04-29 17:56:25 UTC https://globe.adsbexchange.com/?icao=ae0230 
+2022-04-29 21:15:05.470329> Successfull Start 
+2022-04-29 21:15:05.470329 - Erik - K35R seen at New Mexico Sandoval County at 2022-04-29 17:56:25 UTC https://globe.adsbexchange.com/?icao=ae04b2 
+2022-04-29 21:15:05.470329 - Felix - K35R seen at New Mexico Sandoval County at 2022-04-29 17:56:25 UTC https://globe.adsbexchange.com/?icao=ae04b2 
