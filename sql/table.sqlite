@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS aircrafts (
+    hex TEXT,
+    type TEXT,
+    lat REAL,
+    lon REAL,
+    alt REAL,
+    spd REAL,
+    hdg REAL,
+    country TEXT,
+    time INTEGER
+);
