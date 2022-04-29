@@ -4,6 +4,8 @@ import re
 from config import *
 import json
 import sqlite3
+from telegram_output import broadcast
+
 
 def get_country(lat, lon):
     #print(lat)
@@ -45,6 +47,7 @@ def send_aircraft_by_id(id):
         outputString = f"{data[1]} seen at {get_adress(str(data[2]), str(data[3]))} at {data[8]} UTC https://globe.adsbexchange.com/?icao={data[0]}"
     except:
         outputString = f"{data[1]} seen {data[2]},{data[3]} at {data[8]} UTC https://globe.adsbexchange.com/?icao={data[0]}"
+        broadcast(outputString) # Send with Telegram
     return outputString
 
 def import_data(cursor, data_to_import):
