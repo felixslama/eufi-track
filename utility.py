@@ -88,10 +88,11 @@ def import_data(cursor, data_to_import):
         time = ac['time']
         try:
             country = get_country(lat, lon)
+            cursor.execute("INSERT INTO aircrafts VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)", (hexcode, acType, lat, lon, alt, spd, hdg, country, time))
             #country = "empty for testing"
         except:
+            country = "empty because of error"
+            cursor.execute("INSERT INTO aircrafts VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)", (hexcode, acType, lat, lon, alt, spd, hdg, country, time))
             pass
         #print(str(hexcode) + " " + str(acType) +" " + str(lat) + " " + str(lon) + " " + str(alt) + " " + str(spd) + " " + str(hdg) + " " + str(time) + " " + str(country))
-
-        #write to db
-        cursor.execute("INSERT INTO aircrafts VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)", (hexcode, acType, lat, lon, alt, spd, hdg, country, time))
+       
