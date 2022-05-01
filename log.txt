@@ -16,3 +16,186 @@
 2022-04-29 21:15:05.470329> Successfull Start 
 2022-04-29 21:15:05.470329 - Erik - K35R seen at New Mexico Sandoval County at 2022-04-29 17:56:25 UTC https://globe.adsbexchange.com/?icao=ae04b2 
 2022-04-29 21:15:05.470329 - Felix - K35R seen at New Mexico Sandoval County at 2022-04-29 17:56:25 UTC https://globe.adsbexchange.com/?icao=ae04b2 
+2022-05-01 10:54:48.095448> Successfull Start 
+2022-05-01 10:55:28.297277> Successfull Start 
+2022-05-01 10:56:06.337083> Successfull Start 
+2022-05-01 10:56:40.810517> Successfull Start 
+2022-05-01 10:56:46.209283> Successfull Start 
+2022-05-01 10:56:49.910963> Successfull Start 
+2022-05-01 11:19:43.136931> Successfull Start 
+2022-05-01 11:20:36.106989> Successfull Start 
+2022-05-01 11:21:59.996832> Successfull Start 
+2022-05-01 11:23:33.841077> Successfull Start 
+2022-05-01 11:27:41.566044> Successfull Start 
+2022-05-01 11:30:49.603133> Successfull Start 
+2022-05-01 11:42:16.197066> Successfull Start 
+2022-05-01 11:44:29.080855> Successfull Start 
+2022-05-01 11:53:05.807718> Successfull Start 
+2022-05-01 11:54:19.185083> Successfull Start 
+2022-05-01 11:56:07.866672> Successfull Start 
+2022-05-01 12:02:32.747447> Successfull Start 
+2022-05-01 12:03:53.384018> Successfull Start 
+2022-05-01 12:05:04.469262> Successfull Start 
+2022-05-01 12:07:33.527454> Successfull Start 
+2022-05-01 12:12:20.031805> Successfull Start 
+2022-05-01 12:14:25.089322> Successfull Start 
+2022-05-01 12:17:06.550390> Successfull Start 
+2022-05-01 12:19:11.806319> Successfull Start 
+2022-05-01 12:22:36.389846> Successfull Start 
+2022-05-01 12:23:47.944876> Successfull Start 
+2022-05-01 12:25:09.700927> Successfull Start 
+2022-05-01 12:25:09.700927 - Erik - TWR seen at North Carolina Mecklenburg County at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adfbc4 
+2022-05-01 12:25:09.700927 - Felix - TWR seen at North Carolina Mecklenburg County at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adfbc4 
+2022-05-01 12:25:09.700927 - Erik -  seen at Minnesota Washington County at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adfb16 
+2022-05-01 12:25:09.700927 - Felix -  seen at Minnesota Washington County at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adfb16 
+2022-05-01 12:25:09.700927 - Erik -  seen at Virginia Amelia County at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adf8ac 
+2022-05-01 12:25:09.700927 - Felix -  seen at Virginia Amelia County at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adf8ac 
+2022-05-01 12:25:09.700927 - Erik -  seen , at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adfbde 
+2022-05-01 12:25:09.700927 - Felix -  seen , at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adfbde 
+2022-05-01 12:25:09.700927 - Erik -  seen , at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adfbf9 
+2022-05-01 12:25:09.700927 - Felix -  seen , at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adfbf9 
+2022-05-01 12:25:09.700927 - Erik - TWR seen , at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=400025 
+2022-05-01 12:25:09.700927 - Felix - TWR seen , at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=400025 
+2022-05-01 12:25:09.700927 - Erik - K35R seen at Oklahoma Oklahoma County at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=ae0240 
+2022-05-01 12:25:09.700927 - Felix - K35R seen at Oklahoma Oklahoma County at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=ae0240 
+2022-05-01 12:25:09.700927 - Erik -  seen at Oklahoma Garfield County at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adf8e0 
+2022-05-01 12:25:09.700927 - Felix -  seen at Oklahoma Garfield County at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adf8e0 
+2022-05-01 12:25:09.700927 - Erik -  seen at Utah Box Elder County at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adf7e3 
+2022-05-01 12:25:09.700927 - Felix -  seen at Utah Box Elder County at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adf7e3 
+2022-05-01 12:25:09.700927 - Erik -  seen , at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adf996 
+2022-05-01 12:25:09.700927 - Felix -  seen , at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adf996 
+2022-05-01 12:25:09.700927 - Erik -  seen , at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adfbdf 
+2022-05-01 12:25:09.700927 - Felix -  seen , at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adfbdf 
+2022-05-01 12:25:09.700927 - Erik - TWR seen , at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=400006 
+2022-05-01 12:25:09.700927 - Felix - TWR seen , at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=400006 
+2022-05-01 12:25:09.700927 - Erik -  seen , at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adf993 
+2022-05-01 12:25:09.700927 - Felix -  seen , at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adf993 
+2022-05-01 12:25:09.700927 - Erik -  seen , at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adfbf6 
+2022-05-01 12:25:09.700927 - Felix -  seen , at 2022-05-01 10:25:11 UTC https://globe.adsbexchange.com/?icao=adfbf6 
+2022-05-01 12:25:09.700927 - Erik -  seen at Minnesota Scott County at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adfb16 
+2022-05-01 12:25:09.700927 - Felix -  seen at Minnesota Scott County at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adfb16 
+2022-05-01 12:25:09.700927 - Erik - K35R seen at Oklahoma Oklahoma County at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=ae0240 
+2022-05-01 12:25:09.700927 - Felix - K35R seen at Oklahoma Oklahoma County at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=ae0240 
+2022-05-01 12:25:09.700927 - Erik -  seen at Oklahoma Garfield County at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adf8e0 
+2022-05-01 12:25:09.700927 - Felix -  seen at Oklahoma Garfield County at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adf8e0 
+2022-05-01 12:25:09.700927 - Erik -  seen at Utah Box Elder County at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adf7e3 
+2022-05-01 12:25:09.700927 - Felix -  seen at Utah Box Elder County at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adf7e3 
+2022-05-01 12:25:09.700927 - Erik -  seen , at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adf996 
+2022-05-01 12:25:09.700927 - Felix -  seen , at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adf996 
+2022-05-01 12:25:09.700927 - Erik -  seen , at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adfbdf 
+2022-05-01 12:25:09.700927 - Felix -  seen , at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adfbdf 
+2022-05-01 12:25:09.700927 - Erik - TWR seen , at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=400006 
+2022-05-01 12:25:09.700927 - Felix - TWR seen , at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=400006 
+2022-05-01 12:25:09.700927 - Erik -  seen , at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adf993 
+2022-05-01 12:25:09.700927 - Felix -  seen , at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adf993 
+2022-05-01 12:25:09.700927 - Erik -  seen , at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adfbf6 
+2022-05-01 12:25:09.700927 - Felix -  seen , at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adfbf6 
+2022-05-01 12:25:09.700927 - Erik - K35R seen 34.1,43.9 at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=ae015d 
+2022-05-01 12:25:09.700927 - Felix - K35R seen 34.1,43.9 at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=ae015d 
+2022-05-01 12:25:09.700927 - Erik - TEX2 seen 31.6,33.5 at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=738a62 
+2022-05-01 12:25:09.700927 - Felix - TEX2 seen 31.6,33.5 at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=738a62 
+2022-05-01 12:25:09.700927 - Erik -  seen at California Los Angeles County at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adfa69 
+2022-05-01 12:25:09.700927 - Felix -  seen at California Los Angeles County at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adfa69 
+2022-05-01 12:25:09.700927 - Erik -  seen at New York Nassau County at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adfa68 
+2022-05-01 12:25:09.700927 - Felix -  seen at New York Nassau County at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adfa68 
+2022-05-01 12:25:09.700927 - Erik -  seen at Arizona Santa Cruz County at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adfa57 
+2022-05-01 12:25:09.700927 - Felix -  seen at Arizona Santa Cruz County at 2022-05-01 10:26:56 UTC https://globe.adsbexchange.com/?icao=adfa57 
+2022-05-01 12:28:02.946917> Successfull Start 
+2022-05-01 12:28:02.946917 - Erik - C17 seen at Rheinland-Pfalz Eifelkreis Bitburg-Prüm at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=ae123b 
+2022-05-01 12:28:02.946917 - Felix - C17 seen at Rheinland-Pfalz Eifelkreis Bitburg-Prüm at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=ae123b 
+2022-05-01 12:28:02.946917 - Erik - ONE seen at Baden-Württemberg Landkreis Konstanz at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=506f2f 
+2022-05-01 12:28:02.946917 - Felix - ONE seen at Baden-Württemberg Landkreis Konstanz at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=506f2f 
+2022-05-01 12:28:02.946917 - Erik - B350 seen at Baden-Württemberg Landkreis Tuttlingen at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=ae4a7c 
+2022-05-01 12:28:02.946917 - Felix - B350 seen at Baden-Württemberg Landkreis Tuttlingen at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=ae4a7c 
+2022-05-01 12:28:02.946917 - Erik - C5M seen at Bayern Landkreis Bamberg at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=ae055c 
+2022-05-01 12:28:02.946917 - Felix - C5M seen at Bayern Landkreis Bamberg at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=ae055c 
+2022-05-01 12:28:02.946917 - Erik - D228 seen 41.105759,11.088745 at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=33fe1e 
+2022-05-01 12:28:02.946917 - Felix - D228 seen 41.105759,11.088745 at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=33fe1e 
+2022-05-01 12:28:02.946917 - Erik - C30J seen at Thüringen Landkreis Sonneberg at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=ae6c13 
+2022-05-01 12:28:02.946917 - Felix - C30J seen at Thüringen Landkreis Sonneberg at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=ae6c13 
+2022-05-01 12:28:02.946917 - Erik - B738 seen at Mecklenburg-Vorpommern Vorpommern-Greifswald at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=48d982 
+2022-05-01 12:28:02.946917 - Felix - B738 seen at Mecklenburg-Vorpommern Vorpommern-Greifswald at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=48d982 
+2022-05-01 12:28:02.946917 - Erik - HRON seen 33.975592,15.503139 at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=4d232d 
+2022-05-01 12:28:02.946917 - Felix - HRON seen 33.975592,15.503139 at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=4d232d 
+2022-05-01 12:28:02.946917 - Erik - TWR seen at Bayern Landkreis Altötting at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=3ea3c1 
+2022-05-01 12:28:02.946917 - Felix - TWR seen at Bayern Landkreis Altötting at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=3ea3c1 
+2022-05-01 12:28:02.946917 - Erik -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=adfbf4 
+2022-05-01 12:28:02.946917 - Felix -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=adfbf4 
+2022-05-01 12:28:02.946917 - Erik -  seen at Baden-Württemberg Neckar-Odenwald-Kreis at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=3ea3b1 
+2022-05-01 12:28:02.946917 - Felix -  seen at Baden-Württemberg Neckar-Odenwald-Kreis at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=3ea3b1 
+2022-05-01 12:28:02.946917 - Erik -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=adf994 
+2022-05-01 12:28:02.946917 - Felix -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=adf994 
+2022-05-01 12:28:02.946917 - Erik - TEX2 seen 32.0,31.5 at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=738a62 
+2022-05-01 12:28:02.946917 - Felix - TEX2 seen 32.0,31.5 at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=738a62 
+2022-05-01 12:28:02.946917 - Erik -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=adfbf8 
+2022-05-01 12:28:02.946917 - Felix -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=adfbf8 
+2022-05-01 12:28:02.946917 - Erik -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=adf996 
+2022-05-01 12:28:02.946917 - Felix -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=adf996 
+2022-05-01 12:28:02.946917 - Erik -  seen 48.4,10.0 at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=3ea3b0 
+2022-05-01 12:28:02.946917 - Felix -  seen 48.4,10.0 at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=3ea3b0 
+2022-05-01 12:28:02.946917 - Erik -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=adf995 
+2022-05-01 12:28:02.946917 - Felix -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=adf995 
+2022-05-01 12:28:02.946917 - Erik -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=40001c 
+2022-05-01 12:28:02.946917 - Felix -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=40001c 
+2022-05-01 12:28:02.946917 - Erik -  seen at Niedersachsen Landkreis Cuxhaven at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=3ea3c3 
+2022-05-01 12:28:02.946917 - Felix -  seen at Niedersachsen Landkreis Cuxhaven at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=3ea3c3 
+2022-05-01 12:28:02.946917 - Erik - C130 seen 25.8,52.6 at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=896c5a 
+2022-05-01 12:28:02.946917 - Felix - C130 seen 25.8,52.6 at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=896c5a 
+2022-05-01 12:28:02.946917 - Erik -  seen at Sachsen-Anhalt Saalekreis at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=3ea3bb 
+2022-05-01 12:28:02.946917 - Felix -  seen at Sachsen-Anhalt Saalekreis at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=3ea3bb 
+2022-05-01 12:28:02.946917 - Erik -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=adfbdf 
+2022-05-01 12:28:02.946917 - Felix -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=adfbdf 
+2022-05-01 12:28:02.946917 - Erik - TWR seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=400006 
+2022-05-01 12:28:02.946917 - Felix - TWR seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=400006 
+2022-05-01 12:28:02.946917 - Erik -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=adf999 
+2022-05-01 12:28:02.946917 - Felix -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=adf999 
+2022-05-01 12:28:02.946917 - Erik - A332 seen 36.3,19.7 at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=896c3c 
+2022-05-01 12:28:02.946917 - Felix - A332 seen 36.3,19.7 at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=896c3c 
+2022-05-01 12:28:02.946917 - Erik -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=adfbe0 
+2022-05-01 12:28:02.946917 - Felix -  seen , at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=adfbe0 
+2022-05-01 12:28:02.946917 - Erik -  seen at Bayern Landkreis Eichstätt at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=3ea3b6 
+2022-05-01 12:28:02.946917 - Felix -  seen at Bayern Landkreis Eichstätt at 2022-05-01 10:28:04 UTC https://globe.adsbexchange.com/?icao=3ea3b6 
+2022-05-01 12:28:02.946917 - Erik - C17 seen at Rheinland-Pfalz Eifelkreis Bitburg-Prüm at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=ae123b 
+2022-05-01 12:28:02.946917 - Felix - C17 seen at Rheinland-Pfalz Eifelkreis Bitburg-Prüm at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=ae123b 
+2022-05-01 12:28:02.946917 - Erik - B350 seen at Baden-Württemberg Zollernalbkreis at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=ae4a7c 
+2022-05-01 12:28:02.946917 - Felix - B350 seen at Baden-Württemberg Zollernalbkreis at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=ae4a7c 
+2022-05-01 12:28:02.946917 - Erik - C5M seen at Bayern Landkreis Schweinfurt at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=ae055c 
+2022-05-01 12:28:02.946917 - Felix - C5M seen at Bayern Landkreis Schweinfurt at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=ae055c 
+2022-05-01 12:28:02.946917 - Erik - C30J seen at Thüringen Landkreis Sonneberg at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=ae6c13 
+2022-05-01 12:28:02.946917 - Felix - C30J seen at Thüringen Landkreis Sonneberg at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=ae6c13 
+2022-05-01 12:28:02.946917 - Erik - D228 seen 41.217407,11.156311 at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=33fe1e 
+2022-05-01 12:28:02.946917 - Felix - D228 seen 41.217407,11.156311 at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=33fe1e 
+2022-05-01 12:28:02.946917 - Erik - B738 seen at Mecklenburg-Vorpommern Vorpommern-Greifswald at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=48d982 
+2022-05-01 12:28:02.946917 - Felix - B738 seen at Mecklenburg-Vorpommern Vorpommern-Greifswald at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=48d982 
+2022-05-01 12:28:02.946917 - Erik - HRON seen 33.97554,15.438818 at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=4d232d 
+2022-05-01 12:28:02.946917 - Felix - HRON seen 33.97554,15.438818 at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=4d232d 
+2022-05-01 12:28:02.946917 - Erik - TWR seen at Bayern Landkreis Altötting at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=3ea3c1 
+2022-05-01 12:28:02.946917 - Felix - TWR seen at Bayern Landkreis Altötting at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=3ea3c1 
+2022-05-01 12:28:02.946917 - Erik -  seen , at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=adfbf4 
+2022-05-01 12:28:02.946917 - Felix -  seen , at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=adfbf4 
+2022-05-01 12:28:02.946917 - Erik -  seen at Baden-Württemberg Neckar-Odenwald-Kreis at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=3ea3b1 
+2022-05-01 12:28:02.946917 - Felix -  seen at Baden-Württemberg Neckar-Odenwald-Kreis at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=3ea3b1 
+2022-05-01 12:28:02.946917 - Erik -  seen , at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=adf994 
+2022-05-01 12:28:02.946917 - Felix -  seen , at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=adf994 
+2022-05-01 12:28:02.946917 - Erik - TEX2 seen 31.8,32.3 at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=738a62 
+2022-05-01 12:28:02.946917 - Felix - TEX2 seen 31.8,32.3 at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=738a62 
+2022-05-01 12:28:02.946917 - Erik -  seen , at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=adfbf8 
+2022-05-01 12:28:02.946917 - Felix -  seen , at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=adfbf8 
+2022-05-01 12:28:02.946917 - Erik -  seen , at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=adf996 
+2022-05-01 12:28:02.946917 - Felix -  seen , at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=adf996 
+2022-05-01 12:28:02.946917 - Erik -  seen at Hessen Lahn-Dill-Kreis at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=445566 
+2022-05-01 12:28:02.946917 - Felix -  seen at Hessen Lahn-Dill-Kreis at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=445566 
+2022-05-01 12:28:02.946917 - Erik -  seen , at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=adfbe2 
+2022-05-01 12:28:02.946917 - Felix -  seen , at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=adfbe2 
+2022-05-01 12:28:02.946917 - Erik -  seen at Baden-Württemberg Landkreis Konstanz at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=3ea3b0 
+2022-05-01 12:28:02.946917 - Felix -  seen at Baden-Württemberg Landkreis Konstanz at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=3ea3b0 
+2022-05-01 12:28:02.946917 - Erik -  seen , at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=adf995 
+2022-05-01 12:28:02.946917 - Felix -  seen , at 2022-05-01 10:29:56 UTC https://globe.adsbexchange.com/?icao=adf995 
+2022-05-01 12:32:01.580599> Successfull Start 
+2022-05-01 12:57:18.087997> Successfull Start 
+2022-05-01 12:58:57.242015> Successfull Start 
+2022-05-01 12:58:57.242015 - Erik - C30J seen at Rheinland-Pfalz Landkreis Kusel at 2022-05-01 10:58:58 UTC https://globe.adsbexchange.com/?icao=ae6c13 
+2022-05-01 12:58:57.242015 - Felix - C30J seen at Rheinland-Pfalz Landkreis Kusel at 2022-05-01 10:58:58 UTC https://globe.adsbexchange.com/?icao=ae6c13 
+2022-05-01 12:58:57.242015 - Erik - K35R seen 25.5,52.6 at 2022-05-01 10:58:58 UTC https://globe.adsbexchange.com/?icao=ae0156 
+2022-05-01 12:58:57.242015 - Felix - K35R seen 25.5,52.6 at 2022-05-01 10:58:58 UTC https://globe.adsbexchange.com/?icao=ae0156 
+2022-05-01 13:01:56.420423> Successfull Start 

@@ -36,13 +36,14 @@ def get_new_data():
 
 def send_aircraft_by_id(id):
     #open database and get aircraft data by id
-
+    print("send_aircraft_by_id")
     dbConnection = sqlite3.connect(db_file)
     db = dbConnection.cursor()
     db.execute("SELECT * FROM aircrafts WHERE rowid=?", (id,))
     data = db.fetchall()
-    dbConnection.close()
     data = data[0]
+    print(data)
+    dbConnection.close()
     try:
         outputString = f"{data[1]} seen at {get_adress(str(data[2]), str(data[3]))} at {data[8]} UTC https://globe.adsbexchange.com/?icao={data[0]}"
     except:
@@ -86,8 +87,8 @@ def import_data(cursor, data_to_import):
                 alt = ac[k]
         time = ac['time']
         try:
-            #country = get_country(lat, lon)
-            country = "empty for testing"
+            country = get_country(lat, lon)
+            #country = "empty for testing"
         except:
             pass
         #print(str(hexcode) + " " + str(acType) +" " + str(lat) + " " + str(lon) + " " + str(alt) + " " + str(spd) + " " + str(hdg) + " " + str(time) + " " + str(country))
