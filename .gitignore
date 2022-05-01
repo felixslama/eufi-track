@@ -3,3 +3,4 @@ json/*.json
 env/
 aircraft.sqlite
 __pycache__/
+log.txt
