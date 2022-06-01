@@ -19,7 +19,7 @@ def main_loop(sc):
     dbConnection = sqlite3.connect(db_file)
     db = dbConnection.cursor()
 
-    sql_file = open("sql/table.sqlite")
+    sql_file = open("sql/table.sqlite",w+)
     sql_commands = sql_file.read()
     db.executescript(sql_commands)
 
